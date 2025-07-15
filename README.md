@@ -22,7 +22,7 @@ Finally, I've include an authentication process to the app so that authenticated
 Now that you have the proper authentication, you can simply access the "hidden" admin page by adding `/admin` to the end of the URL, which will be given in the `Hosting` and `App Hosting` tabs on the `Firebase` platform. In the admin page, you can add an image to the database, and select the map, floor, and coordinates associated with the image, then finally push it to the `Firebase` storage and database.
 
 ### Security
-It is very important for you to configure the ==security rules== for BOTH the storage and database, which can be found in the tabs when you access them from the dashboard. I recommend these settings as a starter:
+It should be stated that ==your Firebase project API key== doesn't need to be secured, but rather you should make sure you have the appropriate ==security rules== set up to prevent any unwanted accesses ([read here](https://firebase.google.com/docs/projects/api-keys)). It is very important for you to configure the security rules for BOTH the storage and database, which can be found in the tabs when you access them from the dashboard. I recommend these settings as a starter:
 ```
 {
     allow read: if true;
