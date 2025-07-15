@@ -1,0 +1,8 @@
+[
+  {
+    "origin": ["https://r6guessr.web.app", "https://r6guessr.firebaseapp.com", "http://localhost:3000"],
+    "method": ["GET", "PUT", "POST", "DELETE", "HEAD"],
+    "maxAgeSeconds": 3600,
+    "responseHeader": ["Content-Type", "Authorization", "Content-Length", "User-Agent", "x-goog-resumable"]
+  }
+]

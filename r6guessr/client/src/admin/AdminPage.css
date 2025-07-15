@@ -1,0 +1,333 @@
+.admin-page {
+    min-height: 100vh;
+    min-width: 100vh;
+    margin: 0 auto;
+    color: white;
+    background-color: #1a1a1a;
+}
+
+.admin-container {
+    display: flex;
+    gap: 30px;
+}
+
+.admin-upload-form {
+    flex: 1.5;
+    background-color: #2a2a2a;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+.admin-uploaded-images {
+    flex: 1;
+    background-color: #2a2a2a;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+.admin-form-group {
+    margin-bottom: 20px;
+}
+
+.admin-form-group label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+}
+
+.admin-map-selection, .admin-floor-selection {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.admin-selection-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.admin-map-option, .admin-floor-option {
+    padding: 10px 15px;
+    background-color: #3a3a3a;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+.admin-map-option:hover, .admin-floor-option:hover {
+    background-color: #4a4a4a;
+    }
+
+.admin-map-option.selected, .admin-floor-option.selected {
+    background-color: #4CAF50;
+}
+
+.admin-preview-container {
+    position: relative;
+    margin-top: 10px;
+    max-width: 100%;
+    overflow: hidden;
+    border-radius: 5px;
+}
+
+.admin-preview-image {
+    width: 100%;
+    display: block;
+    cursor: crosshair;
+}
+
+.admin-marker {
+    position: absolute;
+    width: 4px;
+    height: 4px;
+    background-color: #d32f2f;
+    border-radius: 50%;
+    border: 1px solid white;
+    box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.5), 0 4px 8px rgba(0, 0, 0, 0.3);
+    transform: translate(-50%, -50%);
+    pointer-events: none;
+    z-index: 10;
+}
+
+.admin-coordinates {
+    display: flex;
+    gap: 20px;
+    margin-top: 10px;
+}
+
+.admin-coordinates input {
+    width: 70px;
+    padding: 5px;
+    margin: 0 5px;
+    background-color: #3a3a3a;
+    border: 1px solid #555;
+    color: white;
+    border-radius: 3px;
+}
+
+.admin-upload-button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.2s;
+}
+
+.admin-upload-button:hover:not(:disabled) {
+    background-color: #5dbd61;
+}
+
+.admin-upload-button:disabled {
+    background-color: #7c7c7c;
+    cursor: not-allowed;
+}
+
+.admin-message {
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.admin-message.success {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.admin-message.error {
+    background-color: #f44336;
+    color: white;
+}
+
+.admin-image-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 15px;
+    margin-top: 15px;
+}
+
+.admin-uploaded-image {
+    background-color: #3a3a3a;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+.admin-uploaded-image img {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+}
+
+.admin-image-info {
+    padding: 10px;
+}
+
+.admin-image-info p {
+    margin: 5px 0;
+    font-size: 14px;
+}
+
+.admin-login-container {
+    max-width: 400px;
+    margin: 100px auto;
+    background-color: #2a2a2a;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+.admin-input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    background-color: #3a3a3a;
+    border: 1px solid #555;
+    color: white;
+    border-radius: 5px;
+}
+
+.admin-error-message {
+    background-color: #f44336;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.admin-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.admin-user-info {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.admin-logout-button {
+    padding: 8px 15px;
+    background-color: #555;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+.admin-logout-button:hover {
+    background-color: #777;
+}
+
+.admin-unauthorized {
+    max-width: 500px;
+    margin: 100px auto;
+    background-color: #2a2a2a;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    text-align: center;
+}
+
+.admin-unauthorized h1 {
+    color: #f44336;
+    margin-top: 0;
+}
+
+.admin-unauthorized button {
+    margin-top: 20px;
+}
+
+.admin-preview-section {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.admin-preview-column {
+    flex: 1;
+    min-width: 300px;
+}
+
+.admin-floor-map-preview {
+    position: relative;
+    margin-top: 10px;
+    max-width: 100%;
+    overflow: hidden;
+    border-radius: 5px;
+    background-color: #222;
+}
+
+.admin-floor-map-image {
+    width: 100%;
+    display: block;
+    cursor: crosshair;
+}
+
+.admin-preview-title {
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.admin-stats-section {
+  background-color: #2a2a2a;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.admin-stats-controls {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.admin-reset-button {
+  background-color: #d32f2f;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  padding: 10px 15px;
+  font-size: 14px;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.admin-reset-button:hover {
+  background-color: #b71c1c;
+}
+
+.admin-reset-button:disabled {
+  background-color: #7c7c7c;
+  cursor: not-allowed;
+}
+
+.admin-message {
+  padding: 10px;
+  border-radius: 4px;
+  font-size: 14px;
+  margin-top: 10px;
+}
+
+.admin-message.success {
+  background-color: rgba(76, 175, 80, 0.2);
+  color: #4CAF50;
+}
+
+.admin-message.error {
+  background-color: rgba(211, 47, 47, 0.2);
+  color: #d32f2f;
+}
+
+.admin-message.info {
+  background-color: rgba(33, 150, 243, 0.2);
+  color: #2196F3;
+}

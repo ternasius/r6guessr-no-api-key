@@ -1,0 +1,284 @@
+[
+  {
+    "id": 1,
+    "name": "Stadium Alpha",
+    "keyart": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5qBxMX7q55gUPGV8tE7dRg/97608e33e7dc6a508a4920f9daccfc7d/StadiumA_keyart.jpg",
+    "floors": [
+      { "name": "Exterior", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2zWHrs6oKevD3OUPsZdLYY/fc61a67b0e614fa6d9d0824a1d5bd88f/StadiumA_modal-roof.jpg" },
+      { "name": "2nd Floor", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/254cahO5UmvuG3xVaMrlC/69924fbcafa4e7165f8856e68adc75bd/StadiumA_modal-2ndFloor.jpg" },
+      { "name": "1st Floor", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6Wek7jOjfEyWU2fFWlCdW5/4a718c94586ba01a94884ace7e796c4c/StadiumA_modal-1stFloor.jpg" },
+      { "name": "Ground", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/13vTynIdmUCHvKiiKRoFSV/cbad213ffef2c3417937fff86b16d74b/StadiumA_modal-ground.jpg" },
+      { "name": "Basement", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1qiqEuocqlUOOKefeLyeBF/9a8fa7e8dbac2ab060226e6bdd6034d6/StadiumA_modal-basement.jpg" }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Stadium Bravo",
+    "keyart": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4QoneYZ2YonTyI3EcHlEmf/8fbc7c4cef551da319206536ff43ee83/stadiumB_keyart.jpg",
+    "floors": [
+      { "name": "Exterior", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1Z0a6HBUaO2ymS0uYa54L7/9acd675f842d14532feda3b74de0e93b/StadiumB_modal-roof.jpg" },
+      { "name": "2nd Floor", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/vbvp0CJygmP5E3nPzXlun/4b7c8220886f3d8bdd375aea9cb1b567/StadiumB_modal-2ndFloor.jpg" },
+      { "name": "1st Floor", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6ls3inF7vZICbgetuVsknm/4353d50ea717ef60692455c81727f87a/StadiumB_modal-1sFloor.jpg" },
+      { "name": "Basement", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5kjM4V84OeJNBSBIDFVB27/b84480a0d113d06570b1b15ccfa168d4/StadiumB_modal-basement.jpg" }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Lair",
+    "keyart": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/423IqxUqD6yfPEy6CissY0/b97de350094cd300c911ec53915d0c9a/r6s-maps-lair.jpg",
+    "floors": [
+      { "name": "Exterior", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5NiPXavipZgr5lAQ1RrMu2/b9e0778fe50f6f8c6af1644432c87ede/r6-maps-lair-blueprint-4.jpg" },
+      { "name": "2nd Floor", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/144IZSQuvlTd5mbM9C1xHE/5df60b08430044972cd2add486e01018/r6-maps-lair-blueprint-3.jpg" },
+      { "name": "1st Floor", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5daqcyybjo4fCebDDttTI5/9d3ffa11a695138640706f310f990553/r6-maps-lair-blueprint-2.jpg" },
+      { "name": "Basement", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5PYxexbImMQq45PlPjD9gu/4cd09b41784af37b09d0da70195a0b7e/r6-maps-lair-blueprint-1.jpg" }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Nighthaven Labs",
+    "keyart": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/57i2PyuzpgVFzOvLUSAItO/636e57b198377a5a5d1d35492b52b808/Nighthaven_labs_screen.jpg",
+    "floors": [
+      { "name": "Exterior", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6pVV3IwBrEkwtzyoeD1C5K/51da4b9380bdbff1b2d9e0eafac2e981/r6-maps-nighthavenlabs-blueprint-4.jpg" },
+      { "name": "2nd Floor", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/31Y9aEgTpzdsVKP24E79JV/239054f74eebb3123296056f4467144e/r6-maps-nighthavenlabs-blueprint-3.jpg" },
+      { "name": "1st Floor", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/66qd9bxgAePlWPj9kgzGvg/d5676fc1d523c632d176afbac9d626ab/r6-maps-nighthavenlabs-blueprint-2.jpg" },
+      { "name": "Basement", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/79cZrFmYWuCtDCJwtLKvFn/a8ed21b415840882f77761360ce53b96/r6-maps-nighthavenlabs-blueprint-1.jpg" }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Close Quarters",
+    "keyart": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6u3cuepKWT8IFdaGznfc3k/d470334bddf5d6313c15879cde524615/r6s_maps_closequarters.jpg",
+    "floors": [
+      { "name": "2nd Floor", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7fETrde3epN5cARWgtPPJv/a4d103caec02807dddb806341e982c42/r6-maps-closequarter-blueprint-2.jpg" },
+      { "name": "1st Floor", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/71EK350DYjhwYhMbpj3A8k/cd0a6ae7a53954f01523e1b2066a66d7/r6-maps-closequarter-blueprint-1.jpg" }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Emerald Plains",
+    "keyart": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1IGW5GG24TGEv3q8bRc9aJ/a73e0dc1fd385b4afd32cd3a2592a294/r6s_maps_emeraldplains__1_.jpg",
+    "floors": [
+      { "name": "Exterior", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5gCmYTC5VTYuGG4T499nQ9/cb239179bcc029ea961a0f9d1d125fa4/r6-maps-emeraldplains-blueprint-3.jpg" },
+      { "name": "2nd Floor", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7uZShb7RUrKPxmdhs9nwFq/e84d6ba647344e5b9a86c09e1c4bb289/r6-maps-emeraldplains-blueprint-2.jpg" },
+      { "name": "1st Floor", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6IPo90GFnnPbW4ri4arLND/066cafe4e7a2d36c8271570cd6047c50/r6-maps-emeraldplains-blueprint-1.jpg" }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Bank",
+    "keyart": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6ilgtuzucX7hEu2MvjhRtp/0bb6e106d78625ea218a572fbb7a5157/r6-maps-bank.jpg",
+    "floors": [
+      { "name": "Exterior", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3iRfs8bs7ZDzQLiXtWH5sk/faffda675d754e148bb0ab2c249239ae/r6-maps-bank-blueprint-4.jpg" },
+      { "name": "1st Floor", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6ITkJP9lxHjVKzS9Ubcwtv/5e3948920858f8a624cffa56fc7514df/r6-maps-bank-blueprint-2.jpg" },
+      { "name": "Ground", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6ZcnTtEXcYt8CrMsjbCvSu/df6694e263225814bb6ac8a0787d90d5/r6-maps-bank-blueprint-1.jpg" },
+      { "name": "Basement", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1DQ8HzVXAIpl5Flv1BNURw/c312cb87861b6c936510bc751ba9683b/r6-maps-bank-blueprint-3.jpg" }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Border",
+    "keyart": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4hqsrL3cokFqedkfjiEaGf/c73f6714b535263a18e4de2ca2405dd1/r6-maps-border__1_.jpg",
+    "floors": [
+      { "name": "Exterior", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7KjYpqMzBlBDHY1Vbwtz55/d87fe5e00d1623434a9499d485d6d196/r6-maps-border-blueprint-3.jpg" },
+      { "name": "1st Floor", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1lG2AxuPadRvfN8Vjx7jGV/200afc5ce945628b744437a20969b1c5/r6-maps-border-blueprint-2.jpg" },
+      { "name": "Ground", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4nl4T7y1mBfwrti5e8Jq9Q/78fc6dbba89cdcc5a10a8e90889e870b/r6-maps-border-blueprint-1.jpg" }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Chalet",
+    "keyart": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/Km3ZJUM7ZMVbGsi6gad5Y/be2827fa6fbe0577001229effb914a27/rainbow6_maps_chalet_thumbnail.jpg",
+    "floors": [
+      { "name": "Exterior", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5EycSvOFWm5e8Oj9Y7SuMy/bd5fb3fe7dd2201c253e56d26b24c02d/r6-maps-chalet-blueprint-4.jpg" },
+      { "name": "1st Floor", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7aFvVZ7EcScvc0w78NnVMW/c4e1aa2e12a633488d55aeef8601bdb0/r6-maps-chalet-blueprint-3.jpg" },
+      { "name": "Ground", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3qRn8TrC1K3KTlLUA0HZVH/4d17176156ee6b6532a8b4206646c870/r6-maps-chalet-blueprint-2.jpg" },
+      { "name": "Basement", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7zMA58ofWWsmj1stpoqKfS/751ffc37bd402aeab15d13443d74a3c4/r6-maps-chalet-blueprint-1.jpg" }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Clubhouse",
+    "keyart": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1vCw5eD2XzxZlv6Au1gtui/baeebaa75cd672e0af8f9f624cf61bde/r6-maps-clubhouse.jpg",
+    "floors": [
+      { "name": "Exterior", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5tP8wrsOiDBfa7NzkUUCQQ/b5e27ccd5b145ce59f8886b004e32c8e/r6-maps-clubhouse-blueprint-4.jpg" },
+      { "name": "2nd Floor", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4StUcsi07j6h4DPrmgF5rC/bb99e697439b647bb4fd192b29bb588c/r6-maps-clubhouse-blueprint-3.jpg" },
+      { "name": "Ground", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3taneZwe0lPRHGvXcJZb6Q/a35fd0b00699bbcc7a88bd2c08db96b6/r6-maps-clubhouse-blueprint-2.jpg" },
+      { "name": "Basement", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6Zs2KBoWjSdaC3qssqwB9N/33907dda5e0363659477296c0e9756c5/r6-maps-clubhouse-blueprint-1.jpg" }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Coastline",
+    "keyart": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5GfAQ3pXCJnDqiqaDH3Zic/db1722cd699bb864ee8f7b0db951b0c3/r6-maps-coastline.jpg",
+    "floors": [
+      { "name": "Exterior", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2F2dvGQqZQk0AzfTN4VbT5/7fbb95687a759f3bd9e0ece51d667e8e/r6-maps-coastline-blueprint-3.jpg" },
+      { "name": "2nd Floor", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5juDHwzsSzib8ljx1IzhUa/47430644b7f65c72df9f26a340bead84/r6-maps-coastline-blueprint-2.jpg" },
+      { "name": "1st Floor", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4b0lpXOb5Hv6kgJ2BvrjP9/59b1ccd49d36b8b38621d39d8f9479f9/r6-maps-coastline-blueprint-1.jpg" }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Consulate",
+    "keyart": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6PR2sBla9E6TNurVUfJ0mc/9a58f08dca1c465787e5a1b6cf6a136b/CONSULATE_REWORK_PREVIEW_03_960x540.jpg",
+    "floors": [
+      { "name": "Exterior", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7fTsFMVeL4crvNABSGRMxJ/680ea0834826726ef5901a5d200f9c6a/r6-maps-consulate-blueprint-4.jpg" },
+      { "name": "1st Floor", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5Tu3Q2DYvBFyqszsrTwawU/cd611afdefa6713e3ec7237fabb58299/r6-maps-consulate-blueprint-3.jpg" },
+      { "name": "Ground", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/v0KtqRwgoNXSvGxjn0MVR/ec1200c055944ceba822a118d3611197/r6-maps-consulate-blueprint-2.jpg" },
+      { "name": "Basement", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/14Ww7AoFdDGhcjgWpLTMdV/77bc68f24869fd75b49a715b67925488/r6-maps-consulate-blueprint-1.jpg" }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Favela",
+    "keyart": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5x991vPOlYbFlynxn9tmn8/96fac98b7b7f7ae54076e0bbcb4dcc42/r6-maps-favela__1_.jpg",
+    "floors": [
+      { "name": "Exterior", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/jxtaVMow36IyElDAk0lCv/cee5e4a2db54ddb9794668c0f397fbb1/r6-maps-favela-blueprint-5.jpg" },
+      { "name": "2nd Floor", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5oUUSy3o0uPVZn2DOONzc7/8a5aa51fbd6e87a2a850c110ce3aee67/r6-maps-favela-blueprint-4.jpg" },
+      { "name": "1st Floor", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1ayWsLMPHSSc7g93m8703A/ab1056626d07120f78c7112e48efe5ba/r6-maps-favela-blueprint-3.jpg" },
+      { "name": "Ground", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3pDlb3ITRjbF8bc8yUd5B2/1503673246145389293917c07137809a/r6-maps-favela-blueprint-2.jpg" },
+      { "name": "Basement", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/26Ag3XCDr8JZ6dtc2QAK20/4c7e8950e9a62fd2ed36cf3fc0cbf381/r6-maps-favela-blueprint-1.jpg" }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Fortress",
+    "keyart": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1MrLwvq61aSSvvUj3dDiZg/18e267c79b8015a1af509a2e5694b18b/r6-maps-fortress.jpg",
+    "floors": [
+      { "name": "Exterior", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1tYeGLAoVOntIFoy2k6ray/d11943721c810c9077489585d32c4491/r6-maps-fortress-blueprint-3.jpg" },
+      { "name": "2nd Floor", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5JzPtRP2tfM0bg7zt5zO5a/05406d9047812f1859deead10edc4a60/r6-maps-fortress-blueprint-2.jpg" },
+      { "name": "1st Floor", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6Hb48Dou0oV4KBEU0yeXQz/bcfc52b3a4f32940d58d25837573bb38/r6-maps-fortress-blueprint-1.jpg" }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Hereford Base",
+    "keyart": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1QHhMYSliWgWXFLxZj19hz/44197c1d98498d8a77618076a19ce538/r6-maps-hereford.jpg",
+    "floors": [
+      { "name": "Exterior", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4YF2arYsJ0ij57YqCnkGcB/56a62434864d8b165f1868b353dd341c/r6-maps-hereford-blueprint-5.jpg" },
+      { "name": "3rd Floor", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4q3OqSBy1Dx226IhrOwc7C/9db8a80e8b7ecadfa0c0627ef6f1477c/r6-maps-hereford-blueprint-4.jpg" },
+      { "name": "2nd Floor", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4rSxlBeEzZeGuuFFN1DilX/d5d56912aa426006e7ca70e7376f9292/r6-maps-hereford-blueprint-3.jpg" },
+      { "name": "Ground", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/qSEd5QKHT4EayRNx01EIH/42ffbe37e0dfc9074aed2e1e56eabb4c/r6-maps-hereford-blueprint-2.jpg" },
+      { "name": "Basement", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2gVZDx0OOit8E6f1OnTJ4B/37e1b8ce2dc69e5b437b56d82f62cf40/r6-maps-hereford-blueprint-1.jpg" }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "House",
+    "keyart": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/28OaEZAY3stNFr0wSvW9MB/c7acc97d43486349763acab3c1564414/r6-maps-house.jpg",
+    "floors": [
+      { "name": "Exterior", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2p05k8xDs0Az7q8zmbmDZm/ecf10dcc088e11672a670b2de28ca97f/r6-maps-house-blueprint-4.jpg" },
+      { "name": "1st Floor", "img": "lhttps://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6ZWHlGOaXqCBiahA0tspF8/d3133aee515e4c16b6660828b17f4861/r6-maps-house-blueprint-3.jpgink" },
+      { "name": "Ground", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1SdjkrdMoeWcDUjjbpFhF1/c3954b71dbaefa4129aac2e0fd5e5bfe/r6-maps-house-blueprint-2.jpg" },
+      { "name": "Basement", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5CIH5XwkMXY6xuacmJEOK7/3608c604e4e1b6e819005ffdc409121b/r6-maps-house-blueprint-1.jpg" }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Kafe Dostoyevsky",
+    "keyart": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2nIuPSHvbM57TK90VSwBEm/70144ada56cf1ba72103aeb4ece9ed1a/r6-maps-kafe.jpg",
+    "floors": [
+      { "name": "Exterior", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3DdjeKrUij0wzjVlF4FML3/6d74c067b57490ccdc7dc7b180618811/r6-maps-kafe-blueprint-4.jpg" },
+      { "name": "1st Floor", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/15f2nyYsxok1GMsuFCrOTW/9036cb95e0f3e048b93aed8f4c13483a/r6-maps-kafe-blueprint-3.jpg" },
+      { "name": "Ground", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7njwDjC8jAG7g2krGRKsYb/2c4216a5f3baee22074759ba1dd45e55/r6-maps-kafe-blueprint-2.jpg" },
+      { "name": "Basement", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3WeSCQnTruB4nJ0n9xm7U7/cec112a997dd78b46515b6242d25a379/r6-maps-kafe-blueprint-1.jpg" }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Kanal",
+    "keyart": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4VHR8uZRGkHqvtZxtmibtc/da988c2cab37f1cb186535fc9ba40bea/r6-maps-kanal.jpg",
+    "floors": [
+      { "name": "Exterior", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3ywuHVnMQcfwRVDyDRzrYf/60d773df74b232ebedea7d86969e9381/r6-maps-kanal-blueprint-5.jpg" },
+      { "name": "2nd Floor", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/XVYbcmygF5gMVpjohY4e9/ff2eea5e48ee48d193fff62373421652/r6-maps-kanal-blueprint-4.jpg" },
+      { "name": "1st Floor", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/75B6AY7oIV1rshuQ3cZqUB/2f544df93573cd1871c8ff2a23c399d2/r6-maps-kanal-blueprint-3.jpg" },
+      { "name": "Ground 2", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/fgm0tsyQwkBpzZflik2vS/3fee4162d712b61b5d3b65c3925153f3/r6-maps-kanal-blueprint-2.jpg" },
+      { "name": "Ground", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/12AFRlw25YNm0BEDDFZRwb/72a48c1e6db493c793aed9848d1ddc48/r6-maps-kanal-blueprint-1.jpg" }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Oregon",
+    "keyart": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/Z9a0gU7iR0vfcbXtoJUOW/42ad6aabbd189fbcd74c497627f1624e/r6-maps-oregon.jpg",
+    "floors": [
+      { "name": "Exterior", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4eUlLOqpfR70gM7miuIIuT/082b5df86be7b17b2931b4c4e6fbe0bb/r6-maps-oregon-blueprint-5.jpg" },
+      { "name": "2nd Floor", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3eC0jrji8bJSrukCV8Th4j/ea96c1108b4575eabc16361a67826c6b/r6-maps-oregon-blueprint-4.jpg" },
+      { "name": "1st Floor", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/K3su6xloMRGuZPQw0yIVD/000e6deabe35780e68d356690d4625a6/r6-maps-oregon-blueprint-3.jpg" },
+      { "name": "Ground", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6KfdmrotDdUSi3shCZn6O4/2316ad1fb161254f7fb38b2e6c906e64/r6-maps-oregon-blueprint-2.jpg" },
+      { "name": "Basement", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/qxSuuyTFOj9GcclwEl77K/49277f2343c81f14825415a3cb4e0f96/r6-maps-oregon-blueprint-1.jpg" }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Outback",
+    "keyart": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1vqGVW6pqBZlLKp4h86NnB/08a7e337c0cfa604cde79e755fedb397/r6-maps-outback.jpg",
+    "floors": [
+      { "name": "Exterior", "img": "lhttps://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3gAUdgvuYfrVPahwetBbGZ/661ee97059469bfcfd46b2c6c6aefc29/r6-maps-outback-blueprint-3.jpgink" },
+      { "name": "2nd Floor", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7jjNcQmgbqhjtZDHNttLha/a16a1fb966da20b802d75630ecd2e7d3/r6-maps-outback-blueprint-2.jpg" },
+      { "name": "1st Floor", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/66RRI7vfHhSPVbmx7oVxsm/14bc3f49e7406b4552be9e5fff824ae6/r6-maps-outback-blueprint-1.jpg" }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Presidential Plane",
+    "keyart": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3YSN2V0HWsddcQq82Iqihn/d3e03012e8909be26f8274b7f9b3bf19/r6-maps-plane.jpg",
+    "floors": [
+      { "name": "Exterior", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/47cMCUWnkRlDGrpCdHGvTb/7046b455dcb3fe270ae7267a98f9d7c9/r6-maps-plane-blueprint-4.jpg" },
+      { "name": "3rd Floor", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/8EnE7KBVagdr2ao1OyBI3/2820b85d11b4bfcc963b8e6625ac27a9/r6-maps-plane-blueprint-3.jpg" },
+      { "name": "2nd Floor", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6JKpfo5nVlD9ezsSBaCr9X/652e72e3e60fe459ed97e3daf2eb98d9/r6-maps-plane-blueprint-2.jpg" },
+      { "name": "1st Floor", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/20j7FImvC3h1EPmq0aEpts/cb593ba8c851f3efbe1ad8165cd81f26/r6-maps-plane-blueprint-1.jpg" }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Skyscraper",
+    "keyart": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7vblsbhmSPLsI3pQJ5Dqx9/f213af09981f5c8ec9b71fb0c3f9dcdd/r6-maps-skyscraper.jpg",
+    "floors": [
+      { "name": "Exterior", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6gdx6cZMOzGaVLn5T4tSzv/7099853a4831478ba36d1444fb358c8a/r6-maps-skyscraper-blueprint-3.jpg" },
+      { "name": "2nd Floor", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1l0EjB5o3s3HewE1VqmRlu/20fc25c788e0be7519a3cdba8ff5a433/r6-maps-skyscraper-blueprint-2.jpg" },
+      { "name": "1st Floor", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3c0AWlxZek6YUUNTaNfyO6/6b22cb6614a28bf9c13641b234cfd7ed/r6-maps-skyscraper-blueprint-1.jpg" }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Theme Park",
+    "keyart": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2immPCOZj6tTHMM9zeBg5B/e88428d55e970fd080e14489fbffeb06/rainbow6_maps_theme-park_thumbnail.jpg",
+    "floors": [
+      { "name": "Exterior", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4LsnAuElC7lVo8H3HYXvSr/a326abb326eb1b64edb7a957001a625d/r6-maps-themepark-blueprint-4.jpg" },
+      { "name": "2nd Floor", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/MgXhGys4DRlJ893gGsp2m/ce12985365be6bc1544e72202e704383/r6-maps-themepark-blueprint-3.jpg" },
+      { "name": "1st Floor", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/17vQ6v4og4uKWZ0YzG2Ja5/c2e4733d954bdd95801235e53ff47d6c/r6-maps-themepark-blueprint-2.jpg" }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Tower",
+    "keyart": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6ZMBunxANmzTNr42wwzggb/3a19c506f9e3f910e34da21095686fa9/r6-maps-tower.jpg",
+    "floors": [
+      { "name": "Exterior", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4zhuj3IrD7U4ExDutn6ErU/9d7350ae3163c9271f253c2c01b57629/r6-maps-tower-blueprint-4.jpg" },
+      { "name": "2nd Floor", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1iVDH4ysZtTKRkLpVLjUoP/816b51f7c7246fc48a907378181046b9/r6-maps-tower-blueprint-3.jpg" },
+      { "name": "1st Floor", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/TejCB29nG2m5LvmVmuEh2/2c41972d997f60f9a49ee9b57cfe2535/r6-maps-tower-blueprint-2.jpg" }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Villa",
+    "keyart": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/Io6dxNeHbCbJoF9WLJf9s/ebf89b009affba37df84dcf1934c74e0/r6-maps-villa.jpg",
+    "floors": [
+      { "name": "Exterior", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2ZnV8AUq0FtZ8T3XxaYGwK/038468ed870ffc0075f6ade04808d7d2/r6-maps-villa-blueprint-5.jpg" },
+      { "name": "2nd Floor", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/DgTowUc6zjVXVDa2pKLX1/a820faf2af99b971a19ab799115b28f1/r6-maps-villa-blueprint-4.jpg" },
+      { "name": "1st Floor", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3J49jyCJZ6nhs8NaPDxolQ/8831f7742e9f3f1e3350fd4691465275/r6-maps-villa-blueprint-3.jpg" },
+      { "name": "Basement", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1CDFxayW2mJLAJy1I9KlvY/cc04fefb6181fea17cd7ae4a8e460f1b/r6-maps-villa-blueprint-1.jpg" }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Yacht",
+    "keyart": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/smDP6lSSaB6Daa7bLZxHZ/d6cc60d76e553e91503a474ff0bc148b/r6-maps-yacht.jpg",
+    "floors": [
+      { "name": "Exterior", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2d1eywMOVU2y9mZVbALqbE/fcde507df7b6053bb8daa47b732f5090/r6-maps-yacht-blueprint-5.jpg" },
+      { "name": "2nd Floor", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4n4a6mhbDRojNiA1uKDd0J/6ff716ed3bf8249ed4b8960f55b9bbc1/r6-maps-yacht-blueprint-4.jpg" },
+      { "name": "1st Floor", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4fc6ERcX7GO9VFnadR7qtC/5dfddd14005ae50994d6cc0663da4a8c/r6-maps-yacht-blueprint-3.jpg" },
+      { "name": "Ground", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7uBEtPmxUn6FIUevrSff6k/3e4f0601610f8b50eddbc70cf978d3d5/r6-maps-yacht-blueprint-2.jpg" },
+      { "name": "Basement", "img": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/IhShaYBfZRTl6gUbifABA/47208fb89c1cfff490067fd4eceaaf9c/r6-maps-yacht-blueprint-1.jpg" }
+    ]
+  }
+]
