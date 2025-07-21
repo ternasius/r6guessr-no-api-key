@@ -10,7 +10,7 @@ The score for each image is out of 100:
 This project can be hosted on Google's `Firebase` platform. Tutorials on how to host an app can be found on YouTube. The project is written in the typical web development languages: `HTML`, `CSS`, `JavaScript`. Libraries used for the project include `React`, `Node.js`, and (obviously) `Firebase`.
 
 ### Configuring R6Guessr
-After creating a new ``Firebase`` project, you can access the project's settings using the cog icon at the ==top left== of the dashboard. Then, scroll down the *General* page until you see the "Your App" panel and copy the code snippet into the `config.js` file found in the `r6guessr\client\src\firebase` folder of the project.
+After creating a new ``Firebase`` project, you can access the project's settings using the cog icon at the **top left** of the dashboard. Then, scroll down the *General* page until you see the "Your App" panel and copy the code snippet into the `config.js` file found in the `r6guessr\client\src\firebase` folder of the project.
 Now, the project is able to access the `Firebase` services available for use.
 
 Next, on the left sidebar of the dashboard, add `Build -> Storage` and `Build -> Firestore Database`:
@@ -22,7 +22,7 @@ Finally, I've include an authentication process to the app so that authenticated
 Now that you have the proper authentication, you can simply access the "hidden" admin page by adding `/admin` to the end of the URL, which will be given in the `Hosting` and `App Hosting` tabs on the `Firebase` platform. In the admin page, you can add an image to the database, and select the map, floor, and coordinates associated with the image, then finally push it to the `Firebase` storage and database.
 
 ### Security
-It should be stated that ==your Firebase project API key== doesn't need to be secured, but rather you should make sure you have the appropriate ==security rules== set up to prevent any unwanted accesses ([read here](https://firebase.google.com/docs/projects/api-keys)). It is very important for you to configure the security rules for BOTH the storage and database, which can be found in the tabs when you access them from the dashboard. I recommend these settings as a starter:
+It should be stated that **your Firebase project API key** doesn't need to be secured, but rather you should make sure you have the appropriate **security rules** set up to prevent any unwanted accesses ([read here](https://firebase.google.com/docs/projects/api-keys)). It is very important for you to configure the security rules for BOTH the storage and database, which can be found in the tabs when you access them from the dashboard. I recommend these settings as a starter:
 ```
 {
     allow read: if true;
